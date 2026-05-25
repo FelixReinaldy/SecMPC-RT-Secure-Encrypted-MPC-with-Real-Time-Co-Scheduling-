@@ -1,0 +1,10 @@
+C:\Semester 4\Pemrograman Kontroler\Jurnal ETS PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\deps\xtensa_lx-cf181493ec523503.d: C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\lib.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\interrupt.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\timer.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\macros.rs
+
+C:\Semester 4\Pemrograman Kontroler\Jurnal ETS PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\deps\libxtensa_lx-cf181493ec523503.rlib: C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\lib.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\interrupt.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\timer.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\macros.rs
+
+C:\Semester 4\Pemrograman Kontroler\Jurnal ETS PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\deps\libxtensa_lx-cf181493ec523503.rmeta: C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\lib.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\interrupt.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\timer.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\macros.rs
+
+C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\lib.rs:
+C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\interrupt.rs:
+C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\timer.rs:
+C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\macros.rs:

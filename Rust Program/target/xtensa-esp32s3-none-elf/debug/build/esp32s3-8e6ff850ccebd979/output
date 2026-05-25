@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Semester 4\Pemrograman Kontroler\Jurnal ETS PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\build\esp32s3-8e6ff850ccebd979\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

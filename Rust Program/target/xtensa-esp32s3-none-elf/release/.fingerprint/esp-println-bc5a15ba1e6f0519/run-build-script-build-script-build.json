@@ -1,0 +1,1 @@
+{"rustc":4152789917738851473,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[7648903741785607723,"build_script_build",false,16551419389979079687],[2451137037008845273,"build_script_build",false,10784310493358283961]],"local":[{"RerunIfEnvChanged":{"var":"ESP_LOG","val":null}}],"rustflags":["-C","link-arg=-Tlinkall.x"],"config":0,"compile_kind":0}

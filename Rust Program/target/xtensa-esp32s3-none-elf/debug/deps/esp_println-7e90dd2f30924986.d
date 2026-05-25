@@ -1,0 +1,12 @@
+C:\Semester 4\Pemrograman Kontroler\Jurnal ETS PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\deps\esp_println-7e90dd2f30924986.d: C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\lib.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\logger.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\../README.md C:\Semester\ 4\Pemrograman\ Kontroler\Jurnal\ ETS\ PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\build\esp-println-d6638f155d3fc1f6\out\log_filter.rs
+
+C:\Semester 4\Pemrograman Kontroler\Jurnal ETS PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\deps\libesp_println-7e90dd2f30924986.rlib: C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\lib.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\logger.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\../README.md C:\Semester\ 4\Pemrograman\ Kontroler\Jurnal\ ETS\ PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\build\esp-println-d6638f155d3fc1f6\out\log_filter.rs
+
+C:\Semester 4\Pemrograman Kontroler\Jurnal ETS PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\deps\libesp_println-7e90dd2f30924986.rmeta: C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\lib.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\logger.rs C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\../README.md C:\Semester\ 4\Pemrograman\ Kontroler\Jurnal\ ETS\ PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\build\esp-println-d6638f155d3fc1f6\out\log_filter.rs
+
+C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\lib.rs:
+C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\logger.rs:
+C:\Users\Felix\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.16.1\src\../README.md:
+C:\Semester\ 4\Pemrograman\ Kontroler\Jurnal\ ETS\ PEMKON\secmpc-rt\target\xtensa-esp32s3-none-elf\debug\build\esp-println-d6638f155d3fc1f6\out\log_filter.rs:
+
+# env-dep:OUT_DIR=C:\\Semester 4\\Pemrograman Kontroler\\Jurnal ETS PEMKON\\secmpc-rt\\target\\xtensa-esp32s3-none-elf\\debug\\build\\esp-println-d6638f155d3fc1f6\\out

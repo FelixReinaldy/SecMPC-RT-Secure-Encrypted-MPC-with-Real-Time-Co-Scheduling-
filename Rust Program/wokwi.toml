@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "target/xtensa-esp32s3-none-elf/debug/secmpc-rt"
+chip = "esp32s3"

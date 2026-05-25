@@ -1,0 +1,4 @@
+# Toolchain Espressif – sama persis dengan C:\Setup_ESP32-S3_Xtensa
+[toolchain]
+channel    = "esp"
+components = ["rust-src"]

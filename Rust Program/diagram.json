@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "author": "Kelas 4C – Pemrograman Kontroler",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "wokwi-esp32-s3-devkitc-1",
+      "id": "esp",
+      "top": 0,
+      "left": 0,
+      "attrs": { "flashSize": "8" }
+    },
+    {
+      "type": "wokwi-potentiometer",
+      "id": "pot1",
+      "top": 80,
+      "left": 300,
+      "attrs": { "label": "Sensor (ADC GPIO1)" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_green",
+      "top": 160,
+      "left": 300,
+      "attrs": { "color": "green", "label": "LED Hijau (Normal)" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_red",
+      "top": 220,
+      "left": 300,
+      "attrs": { "color": "red", "label": "LED Merah (Fault)" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_yellow",
+      "top": 280,
+      "left": 300,
+      "attrs": { "color": "yellow", "label": "LED Kuning (PWM Aktuator)" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 160,
+      "left": 240,
+      "attrs": { "value": "220" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r2",
+      "top": 220,
+      "left": 240,
+      "attrs": { "value": "220" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r3",
+      "top": 280,
+      "left": 240,
+      "attrs": { "value": "220" }
+    }
+  ],
+  "connections": [
+    ["esp:GPIO1",  "pot1:SIG",       "green",  []],
+    ["pot1:VCC",   "esp:3V3",        "red",    []],
+    ["pot1:GND",   "esp:GND",        "black",  []],
+
+    ["esp:GPIO2",  "r1:1",           "lime",   []],
+    ["r1:2",       "led_green:A",    "lime",   []],
+    ["led_green:C","esp:GND",        "black",  []],
+
+    ["esp:GPIO15", "r2:1",           "red",    []],
+    ["r2:2",       "led_red:A",      "red",    []],
+    ["led_red:C",  "esp:GND",        "black",  []],
+
+    ["esp:GPIO16", "r3:1",           "orange", []],
+    ["r3:2",       "led_yellow:A",   "orange", []],
+    ["led_yellow:C","esp:GND",       "black",  []]
+  ]
+}
